@@ -1,5 +1,5 @@
 def main():
-   # declaring and initializing some variables
+    # declaring and initializing some variables
    x = 5
    y = 'hello'
    z = 9.8
